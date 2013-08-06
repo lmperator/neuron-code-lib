@@ -7,7 +7,7 @@ sys.setrecursionlimit( 10000 )
 
 # wikipedia's host url
 url_addr = 'http://www.en.wikipedia.org';
-counter = 1000
+counter = 100
 term = '/wiki/'
 end = False
 start = input( "Type in starting conception: " )
